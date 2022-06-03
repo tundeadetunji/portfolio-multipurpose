@@ -1,0 +1,3 @@
+var content = '<!-- Dropdown Structure --><ul id="filterMenu" class="dropdown-content"><li><a href="#">title</a></li><li><a href="#">author</a></li><li><a href="#">date</a></li></ul><nav><div class="nav-wrapper"><a href="#" class="brand-logo center">Daily Blog</a><ul class="right"><li><a class="dropdown-trigger" href="#" data-target="filterMenu"><i class="fa-solid fa-arrow-down-wide-short"></i></a></li></ul></div></nav>';
+
+document.write(content);
